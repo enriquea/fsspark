@@ -1,3 +1,5 @@
+> ## ⚠️ This project is archived and no longer maintained.
+
 [![Python application](https://github.com/enriquea/fsspark/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/enriquea/fsspark/actions/workflows/python-app.yml)
 [![Python Package using Conda](https://github.com/enriquea/fsspark/actions/workflows/python-package-conda.yml/badge.svg?branch=main)](https://github.com/enriquea/fsspark/actions/workflows/python-package-conda.yml)
 
